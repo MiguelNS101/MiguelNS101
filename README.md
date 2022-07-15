@@ -1,7 +1,7 @@
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelNS101&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelNS101&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelNS101&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MiguelNS101/MiguelNS101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
