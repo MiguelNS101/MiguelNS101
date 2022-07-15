@@ -1,6 +1,6 @@
 ###
 
-<h3>About Me/Sobre Mim</h3>
+<h3>:wave:About Me/Sobre Mim</h3>
 </br>
 <h3>Tech Stack/Tecnologias Usadas</h3>
 <h5>Front-End</h5>
