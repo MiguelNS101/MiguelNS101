@@ -39,6 +39,10 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </a>
 
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+</a>
+
 </br>
 <h5>Tools</h5>
 <a href="https://github.com/">
