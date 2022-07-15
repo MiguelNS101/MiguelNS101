@@ -62,10 +62,6 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 </a>
 
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
-</a>
-
 </br>
 <h5>Tools</h5>
 <a href="https://github.com/">
@@ -78,6 +74,10 @@
 
 <a href="https://github.com/">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </a>
 
 <a href="https://github.com/">
