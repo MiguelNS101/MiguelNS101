@@ -5,7 +5,7 @@
 <h3>:gear: Tech Stack / Tecnologias Usadas</h3>
 <h4>:computer: Front-End</h4>
 <a href="https://github.com/">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=#C1268B&color=2B213A" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=C1268B&color=2B213A" />
 </a>
 
 <a href="https://github.com/">
