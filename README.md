@@ -1,4 +1,9 @@
 ###
+
+<h3>About Me/Sobre Mim</h3>
+</br>
+<h3>Tech Stack/Tecnologias Usadas</h3>
+</br>
 <h3>GitHub Stats/Dados do GitHub</h3>
 </br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
