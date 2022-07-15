@@ -40,6 +40,27 @@
 </a>
 
 </br>
+<h5>Tools</h5>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</a>
+</br>
 <h3>GitHub Stats/Dados do GitHub</h3>
 </br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
