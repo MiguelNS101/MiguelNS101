@@ -84,7 +84,7 @@
 </a>
 
 <a href="https://github.com/">
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2B213A" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=C1268B&color=2B213A" />
 </a>
 </br>
 <h3>:bar_chart: GitHub Stats / Dados do GitHub</h3>
