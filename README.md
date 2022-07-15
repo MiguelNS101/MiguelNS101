@@ -1,8 +1,8 @@
 ###
 
-<h3>:wave: About Me/Sobre Mim</h3>
+<h3>:wave: About Me / Sobre Mim</h3>
 </br>
-<h3>:gear: Tech Stack/Tecnologias Usadas</h3>
+<h3>:gear: Tech Stack / Tecnologias Usadas</h3>
 <h5>:computer: Front-End</h5>
 <a href="https://github.com/">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -87,7 +87,7 @@
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </a>
 </br>
-<h3>:bar_chart: GitHub Stats/Dados do GitHub</h3>
+<h3>:bar_chart: GitHub Stats / Dados do GitHub</h3>
 </br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelNS101&count_private=true&show_icons=true&theme=synthwave" />
@@ -97,4 +97,4 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelNS101&layout=compact&langs_count=10&theme=synthwave" />
 </a>
 
-<h4>:telephone: Contact/Contato</h4>
+<h4>:telephone: Contact / Contato</h4>
