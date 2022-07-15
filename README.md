@@ -3,7 +3,6 @@
 <h3>About Me/Sobre Mim</h3>
 </br>
 <h3>Tech Stack/Tecnologias Usadas</h3>
-</br>
 <h5>Front-End</h5>
 <a href="https://github.com/">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
