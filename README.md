@@ -22,6 +22,24 @@
 </a>
 
 </br>
+<h5>back-End</h5>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</a>
+
+</br>
 <h3>GitHub Stats/Dados do GitHub</h3>
 </br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
